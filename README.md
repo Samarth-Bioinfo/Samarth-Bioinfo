@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samarth
+# Hi, I'm Samarth
 
 I work at the intersection of **translational neuroscience** and **computational biology**, focusing on **single-cell analysis**, **pseudobulk workflows**, and **data-driven discovery**.  
 Currently developing reproducible pipelines using **Scanpy**, **decoupler**, **CellTypist**, and Python ecosystem tools.
